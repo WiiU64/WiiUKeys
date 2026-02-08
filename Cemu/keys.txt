@@ -1,9 +1,10 @@
-# Wii U Disc Keys WUD/WUX (492) (2021-11-09)
+# Wii U Disc Keys WUD/WUX (502) (2026-02-08)
 # this file contains keys needed for decryption of file system data (WUD/WUX)
 # 1 key per line, any text after a '#' character is considered a comment
 # the emulator will automatically pick the right key
 
 d7b00402659ba2abd2cb0db27fa2b656 # Common
+2f5c1b2944e7fd6fc397964b057691fa # Common Dev
 805e6285cd487de0faffaa65a6985e17 # Espresso Ancast
 2efe8abcedbb7baae3c0ed92fa29f866 # Espresso vWii Ancast
 b5d8ab06ed7f6cfc529f2ce1b4ea32fd # Starbuck Ancast
@@ -351,6 +352,7 @@ a50c70803ed18d42a83adcc382e61294 # Sing Party [EUR, WUD]
 150452314d8c238409ac51cf3155516a # Skylanders: Giants [EUR, WUD]
 c69c2c6791441916de9d2a0e002226c7 # Skylanders: Giants [USA, WUD]
 5c90acc4f8febbbbe2d07c1359376993 # Skylanders Imaginators [EUR, WUD]
+d4e95d350d4add1e5547bbdddba60331 # Skylanders Imaginators [EUR Demo, WUD]
 abecc2cf323ea008a8a693571562e77e # Skylanders Imaginators [USA, WUD]
 bd113111af8ea29d298694db0e79609f # Skylanders Spyro no Daibouken [JPN, WUD]
 7b8f1eabecac3e0a553fca692a5fb818 # Skylanders: Swap Force [EUR, WUD]
@@ -367,12 +369,14 @@ e2c3ea7209d348070aecda735546043d # Sonic & All-Stars Racing Transformed [EUR, WU
 26ef87a73380fd03afaf9d38255b8547 # Sonic & All-Stars Racing Transformed [JPN, WUD]
 5e1995cd6cb32bd02f6c5365aa864bd9 # Sonic Boom: Rise of Lyric [EUR, WUD]
 292b2eeec01b51f0170ecd6e473ad26c # Sonic Boom: Rise of Lyric [USA, WUD]
+228dd4ceca23952e4e1a4b3f0ff7ea71 # Sonic Boom: Rise of Lyric [USA Beta(2014-07-18), WUD]
 bd0290b865d2562894bcdbfa119d3035 # Sonic Lost World [EUR, WUD]
 99bc84db36303155e70b5c9869ce4e86 # Sonic Lost World [USA, WUD]
 37ede0a751723b2062387ccc796ff06c # Sonic Lost World [JPN, WUD]
 9edb7a1bce77b230bbc7495c00730bd7 # Sonic Toon - Taiko no Hihou [JPN, WUD]
 0a86710661b48cbc08f51de03ed7423e # Splatoon [EUR, WUD]
 939aa943c9ce3e429b8a458317e434b4 # Splatoon [USA, WUD]
+373f1df125fdafb343897d434deee1d1 # Splatoon [USA Rev2, WUD]
 67552115d4abd9c0e0d633a0fa1abd52 # Splatoon [JPN, WUD]
 8a07d7191825ab59bb59a803456fca28 # Splatoon [JPN Rev2, WUD]
 c3d1442d1c1a269e64dd72b08711fb60 # Splinter Cell Blacklist [EUR, WUD]
@@ -396,19 +400,26 @@ e23aea154f1428156d25bfcc40f63856 # Super Mario 3D World [USA, WUD]
 59cfeaf4e9a4db13809c3533ebdb9500 # Super Mario 3D World [JPN, WUD]
 03650cd0e681b2117eb7044129c6b8b5 # Super Mario Maker [EUR, WUD]
 ca799b135e633336e9a918612b0a3225 # Super Mario Maker [USA, WUD]
+d2f526bee6b5134fedb661fb3bb3474f # Super Mario Maker [USA Rev4, WUD]
 37fb25ef4c6e537ed459a9218b4afdd0 # Super Mario Maker [USA Rev5, WUD]
 1f140e8a774ad188a0150a4d2fbd4358 # Super Mario Maker [JPN, WUD]
 36262b5f49c69164e3be2bb87c9922a7 # Super Smash Bros. for Wii U [EUR, WUD]
+f74ac75153eb4208e220a6b637a0a734 # Super Smash Bros. for Wii U [EUR Rev1, WUD]
 a4c6b22cd75a48a2f695096762956474 # Super Smash Bros. for Wii U [EUR Rev4, WUD]
+ab3375d6ca04dc139481fba88ab4c9d9 # Super Smash Bros. for Wii U [EUR Rev6, WUD]
 a851d78ab8f0a6fe1e93cfceaf99a179 # Super Smash Bros. for Wii U [USA, WUD]
 2561db73b1d66446836ed51607a5a7e6 # Super Smash Bros. for Wii U [USA Rev1, WUD]
 1363c0665d0cc464c8902a092a55009d # Super Smash Bros. for Wii U [USA Rev2, WUD]
 80e97029b7c6deecdba923b2223b4a06 # Super Smash Bros. for Wii U [USA Rev3, WUD]
 7d95c1947aba9fa5c1870d1da833f878 # Super Smash Bros. for Wii U [USA Rev4, WUD]
+f65db3f01e76dd67cbbe1feafaec4867 # Super Smash Bros. for Wii U [USA Rev5, WUD]
+741ed16611e626e92dd72ab9bfb9927d # Super Smash Bros. for Wii U [USA Rev6, WUD]
 80369691a3ea49287c30e5640563eb6a # Super Smash Bros. for Wii U [USA Rev9, WUD]
 22dc5acc56f6fb172600521191d6e73d # Super Smash Bros. for Wii U [USA Rev10, WUD]
 df3cf8640e845d777bc139e12467cd99 # Super Smash Bros. for Wii U [JPN, WUD]
 26bbf43413ce0aa229d260c696fde3f6 # Super Smash Bros. for Wii U [JPN Rev1, WUD]
+f1e89245ea97ecf67bf0ce8ec14c2a1c # Super Smash Bros. for Wii U [JPN Rev4, WUD]
+9260ac0f1aeec4231a3d2a159dff240f # Super Smash Bros. for Wii U [JPN Rev7, WUD]
 bc9a937c11e346ac4ed144266310736a # Susume! Kinopio Taichou [JPN, WUD]
 7242a537b3d65a791761a64c88a259e7 # Susume! Kinopio Taichou [JPN Rev1, WUD]
 56e09b338874186de1a3d95b89647b8e # Taiko no Tatsujin - Atsumete Tomodachi Daisakusen! [JPN, WUD]
